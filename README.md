@@ -1,5 +1,5 @@
 # Software Engineer Cookbook
-### Knowledge base that helps me to stay in touch with the reality. Use with caution ;)
+Knowledge base that helps me to stay in touch with the reality. Use with caution ;)
 
 ## Backend
 
