@@ -422,6 +422,7 @@ Knowledge base that helps me to stay in touch with the reality. Use with caution
   * http://tedyoung.me/2011/06/21/spring-security-custom-authenticators/
 - Password storage
   * http://crackstation.net/hashing-security.htm
+  * https://www.nccgroup.trust/us/about-us/newsroom-and-events/blog/2015/march/enough-with-the-salts-updates-on-secure-password-schemes/
   * http://www.javacodegeeks.com/2012/05/secure-password-storage-donts-dos-and.html
   * http://www.javacodegeeks.com/2012/08/bcrypt-salt-its-bare-minimum.html
 - BCrypt
@@ -640,10 +641,14 @@ Knowledge base that helps me to stay in touch with the reality. Use with caution
   * http://net.tutsplus.com/tutorials/webgl-essentials-part-i/
 - Good UI
   * http://www.goodui.org/
+- Flexbox
+  * http://flexboxin5.com/
 
 ### CSS
 - CSS selectors
   * http://net.tutsplus.com/tutorials/html-css-techniques/the-30-css-selectors-you-must-memorize/
+- Pro tips
+  * https://github.com/AllThingsSmitty/css-protips
 - LESS
   * http://lesscss.org/
 - SASS
@@ -654,6 +659,8 @@ Knowledge base that helps me to stay in touch with the reality. Use with caution
 ### HTTP
 - HTTP Protocol
   * http://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol
+- HTTP Status codes
+  * http://racksburg.com/choosing-an-http-status-code/
 - HTTPS
   * http://stackoverflow.com/questions/323200/is-a-https-query-string-secure
   * http://en.wikipedia.org/wiki/HTTP_Secure
@@ -679,6 +686,18 @@ Knowledge base that helps me to stay in touch with the reality. Use with caution
 ### Linux
 - http://cb.vu/unixtoolbox.xhtml
 - http://www.ibm.com/developerworks/training/kp/l-kp-command/index.html
+- Linux insides
+  * https://0xax.gitbooks.io/linux-insides/content/index.html
+- Repairing broken Arch
+  * https://mzanfardino.wordpress.com/2012/05/24/repairing-broken-arch-linux/
+- MC
+  * http://klimer.eu/2015/05/01/use-midnight-commander-like-a-pro/
+- Patitioning
+  * http://rainbow.chard.org/2013/01/30/how-to-align-partitions-for-best-performance-using-parted/
+- Arch full disk encryption
+  * http://www.pavelkogan.com/2014/05/23/luks-full-disk-encryption/
+- Boot process
+  * http://www.ibm.com/developerworks/linux/library/l-linuxboot/
 
 ### Emacs
 - http://tuxradar.com/content/emacs-tutorial-beginners
@@ -729,3 +748,6 @@ Knowledge base that helps me to stay in touch with the reality. Use with caution
 - Other
   * http://www.mkyong.com/featured/top-20-java-websites/
   * http://www.javacodegeeks.com/p/resources.html
+
+### Scrum
+- http://www.codeproject.com/Articles/4798/What-is-SCRUM
