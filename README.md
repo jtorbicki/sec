@@ -472,10 +472,15 @@ Knowledge base that helps me to stay in touch with the reality. Use with caution
 - SVN
 - Git
   * http://www.javacodegeeks.com/2013/05/git-explained-for-beginners.html
+- Git Book
+  * https://git-scm.com/book/en/v2
 - Git branching
   * http://nvie.com/posts/a-successful-git-branching-model
-- Git inside out
+- Git internals
+  * https://git-scm.com/book/en/v2/Git-Internals-Plumbing-and-Porcelain
   * https://codewords.recurse.com/issues/two/git-from-the-inside-out
+- Git index
+  * http://stackoverflow.com/questions/4084921/what-does-the-git-index-contain-exactly
 
 ### Polyglot Programming
 - http://blog.enfranchisedmind.com/posts/not-too-stupid-for-polyglotism/
