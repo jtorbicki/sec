@@ -499,6 +499,7 @@ Knowledge base that helps me to stay in touch with the reality. Use with caution
 - Scala vs Java performance
   * http://stackoverflow.com/questions/5901452/scala-vs-java-performance-and-memory
 - DI in Scala
+  * http://di-in-scala.github.io/
   * http://scabl.blogspot.dk/2013/02/cbdi.html
 - Partial Functions
   * http://sandrasi-sw.blogspot.com/2012/03/understanding-scalas-partially-applied.html
