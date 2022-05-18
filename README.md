@@ -10,8 +10,6 @@ Knowledge base that helps me to stay in touch with the reality. Use with caution
     * https://www.marcobehler.com/guides/a-guide-to-java-versions-and-features
 - Java SE vs EE vs ME
     * http://stackoverflow.com/questions/2857376/difference-between-java-se-ee-me
-- 0xCAFEBABE
-    * https://www.artima.com/insidejvm/whyCAFEBABE.html
 
 ### Basic Java
 
@@ -19,6 +17,8 @@ Knowledge base that helps me to stay in touch with the reality. Use with caution
     * http://docs.oracle.com/javase/tutorial/collections/index.html
 - Hashtable \ HashMap (Buckets, Collisions etc.)
     * http://en.wikipedia.org/wiki/Hash_table
+- TreeMap (sorted keys)
+    * https://www.callicoder.com/java-treemap
 - Java Collections Matrix
     * https://docs.google.com/spreadsheet/pub?key=0Aq3e8BiuZY2wdFpHSlV0QzVmV1lUNHJidGd2b0Zrb3c
 - bits operations
@@ -112,6 +112,8 @@ Knowledge base that helps me to stay in touch with the reality. Use with caution
     * https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/this
 - Equality
     * https://developer.mozilla.org/en-US/docs/Web/JavaScript/Equality_comparisons_and_sameness
+- call vs apply vs bind
+    * https://dev.to/jcfrane/call-vs-apply-vs-bind-2d4c
 - OOP
     * http://stackoverflow.com/questions/907225/object-oriented-javascript-best-practices
 - Javascript style
@@ -134,11 +136,19 @@ Knowledge base that helps me to stay in touch with the reality. Use with caution
 - Crockford
     * http://www.youtube.com/watch?v=hQVTIJBZook
     * http://www.crockford.com/
+- Reactive Programming
+    * https://goodguydaniel.com/blog/why-reactive-programming
+- Advanced Objects
+    * https://github.com/carltheperson/advanced-js-objects
+- Decimal arithmetic
+    * https://github.com/MikeMcl/big.js
 
 ### Typescript
 
-- What is Typescript
-    * https://www.typescriptlang.org/
+- Handbook
+    * https://www.typescriptlang.org/assets/typescript-handbook.pdf
+- Typescript Deep Dive
+    * https://github.com/basarat/typescript-book
 - Decorators
     * https://blog.logrocket.com/a-practical-guide-to-typescript-decorators
 - Typescript vs Kotlin
@@ -154,6 +164,8 @@ Knowledge base that helps me to stay in touch with the reality. Use with caution
     * https://www.baeldung.com/jvm-languages
 - Babel vs Typescript
     * https://blog.logrocket.com/babel-vs-typescript/
+- Nominal vs structural typing
+    * https://medium.com/@thejameskyle/type-systems-structural-vs-nominal-typing-explained-56511dd969f4
 
 ### Building frontend
 
@@ -204,6 +216,8 @@ Knowledge base that helps me to stay in touch with the reality. Use with caution
     * https://blog.appsignal.com/2020/07/01/a-deep-dive-into-v8.html
 - Event loop
     * https://youtube.com/watch?v=8aGhZQkoFbQ
+- GC
+    * https://v8.dev/blog/trash-talk
 
 ### Node.js
 
@@ -343,10 +357,8 @@ Knowledge base that helps me to stay in touch with the reality. Use with caution
     * http://www.codefutures.com/database-sharding/
 - Vector clock
     * http://basho.com/blog/technical/2010/04/05/why-vector-clocks-are-hard/
-
-### Polyglot Persistence
-
-- http://martinfowler.com/bliki/PolyglotPersistence.html
+- Polyglot Persistence
+    * http://martinfowler.com/bliki/PolyglotPersistence.html
 
 ### XML / JSON
 
@@ -448,8 +460,7 @@ Knowledge base that helps me to stay in touch with the reality. Use with caution
 
 - OAuth vs OpenID Connect
     * https://developer.okta.com/blog/2019/10/21/illustrated-guide-to-oauth-and-oidc
-- OpenID Connect
-    * https://openid.net/connect
+    * https://developer.okta.com/blog/2017/07/25/oidc-primer-part-1
 - Web application security
     * http://docs.oracle.com/javaee/6/tutorial/doc/bncat.html
 - JAAS
@@ -534,10 +545,15 @@ Knowledge base that helps me to stay in touch with the reality. Use with caution
 - Google Jib
     * https://github.com/GoogleContainerTools/jib
 
-### Distributed coordination
+### Kubernetes
 
 - Kubernetes
     * https://kubernetes.io
+- The Hard Way
+    * https://github.com/kelseyhightower/kubernetes-the-hard-way
+
+### Distributed coordination
+
 - Apache ZooKeeper vs. etcd3
     * https://dzone.com/articles/apache-zookeeper-vs-etcd3
 
@@ -563,6 +579,10 @@ Knowledge base that helps me to stay in touch with the reality. Use with caution
     * https://reactjs.org/docs/hello-world.html
 - Function vs Class Components
     * https://overreacted.io/how-are-function-components-different-from-classes/
+- State management
+    * https://blog.openreplay.com/top-6-react-state-management-libraries-for-2022
+- RxJS
+    * https://blog.logrocket.com/rxjs-with-react-hooks-for-state-management
 
 ### AngularJS
 
@@ -610,8 +630,13 @@ Knowledge base that helps me to stay in touch with the reality. Use with caution
     * http://www.html5canvastutorials.com/
 - WebGL
     * http://net.tutsplus.com/tutorials/webgl-essentials-part-i/
+
+### UX/UI
+
 - Good UI
     * http://www.goodui.org/
+- Design rules
+    * https://thefullstackdev.net/resource/create-beautiful-website-while-sucking-at-design/
 
 ### CSS
 
@@ -850,3 +875,12 @@ Knowledge base that helps me to stay in touch with the reality. Use with caution
     * http://www.codeproject.com/Articles/4798/What-is-SCRUM
 - Kanban
     * https://kanbanize.com/kanban-resources/getting-started/what-is-kanban
+- XP
+    * https://www.agilealliance.org/glossary/xp
+
+### Extras
+
+- Why i in loops
+    * https://softwareengineering.stackexchange.com/questions/86904/why-do-most-of-us-use-i-as-a-loop-counter-variable
+- 0xCAFEBABE
+    * https://www.artima.com/insidejvm/whyCAFEBABE.html
