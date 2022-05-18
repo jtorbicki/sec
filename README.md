@@ -167,21 +167,6 @@ Knowledge base that helps me to stay in touch with the reality. Use with caution
 - Nominal vs structural typing
     * https://medium.com/@thejameskyle/type-systems-structural-vs-nominal-typing-explained-56511dd969f4
 
-### Building frontend
-
-- Babel
-    * https://babeljs.io
-- SWC
-    * https://swc.rs
-- Parcel
-    * https://parceljs.org
-- Webpack
-    * https://webpack.js.org
-- Vite
-    * https://vitejs.dev
-- Polyfilling vs Transpiling
-    * https://javascript.plainenglish.io/do-you-know-the-differences-between-polyfilling-and-transpiling-17b82e2053f6
-
 ### JVM
 
 - invoke dynamic
@@ -238,17 +223,6 @@ Knowledge base that helps me to stay in touch with the reality. Use with caution
     * http://code.google.com/p/google-guice/wiki/Motivation
 - Spring IoC vs Guice
     * http://www.javacodegeeks.com/2012/06/spring-vs-guice-one-critical-difference.html
-
-### Web applications
-
-- Ktor
-    * https://ktor.io
-- Scalatra
-    * http://www.scalatra.org
-- Web Server vs Web Container vs Application Server
-    * http://geekexplains.blogspot.dk/2008/06/web-server-web-container-application.html
-- MVC
-    * http://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller
 
 ### Spring
 
@@ -479,9 +453,6 @@ Knowledge base that helps me to stay in touch with the reality. Use with caution
     * http://www.javacodegeeks.com/2012/08/bcrypt-salt-its-bare-minimum.html
 - BCrypt
     * http://en.wikipedia.org/wiki/Bcrypt
-
-### Web app attacks
-
 - XSS
     * http://www.veracode.com/security/xss
 - SQL injection
@@ -556,6 +527,32 @@ Knowledge base that helps me to stay in touch with the reality. Use with caution
 
 - Apache ZooKeeper vs. etcd3
     * https://dzone.com/articles/apache-zookeeper-vs-etcd3
+
+### Web applications
+
+- Ktor
+    * https://ktor.io
+- Scalatra
+    * http://www.scalatra.org
+- Web Server vs Web Container vs Application Server
+    * http://geekexplains.blogspot.dk/2008/06/web-server-web-container-application.html
+- MVC
+    * http://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller
+
+### Building frontend
+
+- Babel
+    * https://babeljs.io
+- SWC
+    * https://swc.rs
+- Parcel
+    * https://parceljs.org
+- Webpack
+    * https://webpack.js.org
+- Vite
+    * https://vitejs.dev
+- Polyfilling vs Transpiling
+    * https://javascript.plainenglish.io/do-you-know-the-differences-between-polyfilling-and-transpiling-17b82e2053f6
 
 ### View (Client side)
 
