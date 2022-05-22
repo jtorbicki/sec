@@ -142,6 +142,8 @@ Knowledge base that helps me to stay in touch with the reality. Use with caution
     * https://github.com/carltheperson/advanced-js-objects
 - Decimal arithmetic
     * https://github.com/MikeMcl/big.js
+- undefined, null, void 0
+    * https://fodor.org/blog/js-undefined-null-void
 
 ### Typescript
 
@@ -151,6 +153,8 @@ Knowledge base that helps me to stay in touch with the reality. Use with caution
     * https://github.com/basarat/typescript-book
 - Decorators
     * https://blog.logrocket.com/a-practical-guide-to-typescript-decorators
+- Branded primitives
+    * https://stackoverflow.com/questions/64614085/intersection-types-with-typescript
 - Typescript vs Kotlin
     * https://gi-no.github.io/kotlin-is-like-typescript/
 - Typescript in Browser
@@ -706,12 +710,17 @@ Knowledge base that helps me to stay in touch with the reality. Use with caution
     * http://www.pavelkogan.com/2014/05/23/luks-full-disk-encryption/
 - Boot process
     * https://opensource.com/article/17/2/linux-boot-and-startup
-- zsh
-    * https://askql.wordpress.com/2011/01/11/zsh-writing-own-completion/
 - calloc
     * https://vorpus.org/blog/why-does-calloc-exist/
 - Embedded linux
     * https://jaycarlson.net/embedded-linux/
+- Fish
+    * https://github.com/jorgebucaran/cookbook.fish
+- McFly history search
+    * https://github.com/cantino/mcfly
+- Old school nostalgia
+    * https://www.guitmz.com
+    * https://tmpout.sh
 
 ### Version Control
 
