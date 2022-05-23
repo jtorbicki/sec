@@ -151,6 +151,10 @@ Knowledge base that helps me to stay in touch with the reality. Use with caution
     * https://www.typescriptlang.org/assets/typescript-handbook.pdf
 - Typescript Deep Dive
     * https://github.com/basarat/typescript-book
+- Advanced types
+    * https://medium.com/free-code-camp/typescript-curry-ramda-types-f747e99744ab
+- Type challenges
+    * https://github.com/type-challenges/type-challenges
 - Decorators
     * https://blog.logrocket.com/a-practical-guide-to-typescript-decorators
 - Branded primitives
