@@ -336,9 +336,10 @@ Knowledge base that helps me to stay in touch with the reality. Use with caution
 - Eventual Consistency
     * http://en.wikipedia.org/wiki/Eventual_consistency
     * http://wiki.ubc.ca/images/e/ec/EventualConsistency.pdf
-- w + r > n
+- Quorum write and Quorum read (w + r > n)
+    * https://stackoverflow.com/questions/7817513/what-are-the-implications-of-r-w-n-for-cassandra-clusters
 - Database sharding
-    * http://www.codefutures.com/database-sharding/
+    * https://www.digitalocean.com/community/tutorials/understanding-database-sharding
 - Vector clock
     * http://basho.com/blog/technical/2010/04/05/why-vector-clocks-are-hard/
 - Polyglot Persistence
@@ -637,6 +638,8 @@ Knowledge base that helps me to stay in touch with the reality. Use with caution
     * http://www.html5canvastutorials.com/
 - WebGL
     * http://net.tutsplus.com/tutorials/webgl-essentials-part-i/
+- section vs article
+    * https://www.smashingmagazine.com/2020/01/html5-article-section
 
 ### UX/UI
 
