@@ -661,6 +661,13 @@ Knowledge base that helps me to stay in touch with the reality. Use with caution
 - Tailwind
     * https://tailwindcss.com
 
+### Browser
+
+- Identification
+    * https://sites.google.com/a/chromium.org/dev/Home/chromium-security/client-identification-mechanisms
+- Shadow DOM vs Virtual DOM
+    * https://vuejsfeed.com/blog/learn-the-differences-between-shadow-dom-and-virtual-dom
+
 ### HTTP
 
 - HTTP Protocol
@@ -686,13 +693,6 @@ Knowledge base that helps me to stay in touch with the reality. Use with caution
     * http://www.html5rocks.com/en/tutorials/cors/
 - Content disposition
     * https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Content-Disposition
-
-### Browser
-
-- Identification
-    * https://sites.google.com/a/chromium.org/dev/Home/chromium-security/client-identification-mechanisms
-- Shadow DOM vs Virtual DOM
-    * https://vuejsfeed.com/blog/learn-the-differences-between-shadow-dom-and-virtual-dom
 
 ### Networking
 
