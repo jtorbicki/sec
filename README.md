@@ -58,6 +58,8 @@ Knowledge base that helps me to stay in touch with the reality. Use with caution
     * http://www.oracle.com/technetwork/articles/java/fork-join-422606.html
 - ConcurrentHashMap
     * https://www.baeldung.com/java-concurrent-map
+- wait and notify
+    * https://www.baeldung.com/java-wait-notify
 
 ### Advanced Java
 
@@ -744,6 +746,8 @@ Knowledge base that helps me to stay in touch with the reality. Use with caution
 
 - SOLID
     * https://www.bmc.com/blogs/solid-design-principles/
+- DRY
+    * https://en.wikipedia.org/wiki/Don%27t_repeat_yourself
 - Design Patterns
     * http://en.wikipedia.org/wiki/Software_design_pattern
 - Builder vs Abstract Factory
@@ -760,6 +764,8 @@ Knowledge base that helps me to stay in touch with the reality. Use with caution
     * https://medium.com/walmartglobaltech/building-domain-driven-microservices-af688aa1b1b8
 - Tools
     * https://draw.io
+- Human shareable codes
+    * https://kalifi.org/2019/09/human-shareable-codes.html
 
 ### Clustering
 
