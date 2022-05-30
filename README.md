@@ -74,8 +74,14 @@ Knowledge base that helps me to stay in touch with the reality. Use with caution
 
 - What is Kotlin
     * http://kotlinlang.org
+- Klassbook
+    * https://klassbook.commonsware.com
+- CommonsWare’s Books
+    * https://commonsware.com/catalog
 - What's new
     * https://kotlinlang.org/docs/whatsnew1620.html
+- Kotlin by JetBrains
+    * https://www.youtube.com/c/Kotlin
 - Kotlin’s vararg and spread operator
     * https://proandroiddev.com/kotlins-vararg-and-spread-operator-4200c07d65e1
 - Context receiver
@@ -86,6 +92,8 @@ Knowledge base that helps me to stay in touch with the reality. Use with caution
     * https://medium.com/mobile-app-development-publication/mastering-kotlin-standard-functions-run-with-let-also-and-apply-9cd334b0ef84
 - launch/join and async/await in Kotlin coroutines
     * https://stackoverflow.com/questions/46226518/what-is-the-difference-between-launch-join-and-async-await-in-kotlin-coroutines
+- Why Does Kotlin/JS Return Different Results for === Than Does Kotlin/JVM?
+    * https://stackoverflow.com/questions/56835246/why-does-kotlin-js-return-different-results-for-than-does-kotlin-jvm/56835624#56835624
 
 ### Scala
 
@@ -469,6 +477,16 @@ Knowledge base that helps me to stay in touch with the reality. Use with caution
 - SQL injection
     * http://stackoverflow.com/questions/9596424/how-much-safe-from-sql-injection-if-using-hibernate
 
+### Keycloak
+
+- Extensions
+    * https://github.com/thomasdarimont/keycloak-extension-playground
+    * https://github.com/keycloak/keycloak-quickstarts
+- A deep dive into Keycloak
+    * https://www.youtube.com/watch?v=ZxpY_zZ52kU
+- Awesome Keycloak
+    * https://github.com/thomasdarimont/awesome-keycloak
+
 ### Testing
 
 - TDD vs BDD vs ATDD
@@ -526,6 +544,8 @@ Knowledge base that helps me to stay in touch with the reality. Use with caution
     * https://iximiuz.com/en/series/debunking-container-myths/
 - Google Jib
     * https://github.com/GoogleContainerTools/jib
+- The differences between Docker, containerd, CRI-O and runc
+    * https://www.tutorialworks.com/difference-docker-containerd-runc-crio-oci
 
 ### Kubernetes
 
