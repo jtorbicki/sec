@@ -733,10 +733,11 @@ Knowledge base that helps me to stay in touch with the reality. Use with caution
     * https://mzanfardino.wordpress.com/2012/05/24/repairing-broken-arch-linux/
 - MC
     * http://klimer.eu/2015/05/01/use-midnight-commander-like-a-pro/
-- Patitioning
+- Partitioning
     * http://rainbow.chard.org/2013/01/30/how-to-align-partitions-for-best-performance-using-parted/
-- Arch full disk encryption
-    * http://www.pavelkogan.com/2014/05/23/luks-full-disk-encryption/
+- Arch disk encryption
+    * http://www.pavelkogan.com/2014/05/23/luks-full-disk-encryption
+    * https://blog.bespinian.io/posts/installing-arch-linux-on-uefi-with-full-disk-encryption
 - Boot process
     * https://opensource.com/article/17/2/linux-boot-and-startup
 - calloc
@@ -923,3 +924,5 @@ Knowledge base that helps me to stay in touch with the reality. Use with caution
     * https://softwareengineering.stackexchange.com/questions/86904/why-do-most-of-us-use-i-as-a-loop-counter-variable
 - 0xCAFEBABE
     * https://www.artima.com/insidejvm/whyCAFEBABE.html
+- Coding game
+    * https://www.codingame.com
