@@ -751,6 +751,8 @@ Knowledge base that helps me to stay in touch with the reality. Use with caution
 - Old school nostalgia
     * https://www.guitmz.com
     * https://tmpout.sh
+- Wallpapers
+    * https://wallhaven.cc
 
 ### Version Control
 
@@ -893,14 +895,19 @@ Knowledge base that helps me to stay in touch with the reality. Use with caution
 
 ### Interview
 
-- http://www.javacodegeeks.com/2012/02/some-interview-questions-to-hire-java.html
-- http://www.javacodegeeks.com/2012/03/here-is-main-reason-why-you-suck-at.html
-- http://www.javacodegeeks.com/2012/08/how-employers-measure-passion-in.html
-- http://www.javacodegeeks.com/2012/08/why-you-didnt-get-interview.html
-- http://www.javacodegeeks.com/2012/08/why-you-didnt-get-job.html
-- http://stackoverflow.com/questions/2114212/questions-every-good-java-java-ee-developer-should-be-able-to-answer
-- http://stackoverflow.com/questions/64856/senior-java-ee-interview-questions
-- http://www.javacodegeeks.com/2012/08/blind-dating-for-geeks-questions.html
+- Questions
+    * http://www.javacodegeeks.com/2012/02/some-interview-questions-to-hire-java.html
+    * http://www.javacodegeeks.com/2012/03/here-is-main-reason-why-you-suck-at.html
+    * http://www.javacodegeeks.com/2012/08/how-employers-measure-passion-in.html
+    * http://www.javacodegeeks.com/2012/08/why-you-didnt-get-interview.html
+    * http://www.javacodegeeks.com/2012/08/why-you-didnt-get-job.html
+    * http://stackoverflow.com/questions/2114212/questions-every-good-java-java-ee-developer-should-be-able-to-answer
+    * http://stackoverflow.com/questions/64856/senior-java-ee-interview-questions
+    * http://www.javacodegeeks.com/2012/08/blind-dating-for-geeks-questions.html
+- Coding game
+    * https://www.codingame.com
+- Codility lessons
+    * https://app.codility.com/programmers/lessons/1-iterations
 
 ### Resources
 
@@ -924,5 +931,3 @@ Knowledge base that helps me to stay in touch with the reality. Use with caution
     * https://softwareengineering.stackexchange.com/questions/86904/why-do-most-of-us-use-i-as-a-loop-counter-variable
 - 0xCAFEBABE
     * https://www.artima.com/insidejvm/whyCAFEBABE.html
-- Coding game
-    * https://www.codingame.com
