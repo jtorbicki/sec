@@ -45,7 +45,7 @@ Knowledge base that helps me to stay in touch with the reality. Use with caution
 - Java Memory Leaks
     * http://stackoverflow.com/questions/6470651/creating-a-memory-leak-with-java
 
-### Java Concurency
+### Java Concurrency
 
 - Tutorial
     * https://docs.google.com/open?id=0B2EZFIvnYfEpZGQ0OTgxNTktYThkZC00MWMwLTg4MzctNmNlNGNmMTU1ZGI4
@@ -154,6 +154,8 @@ Knowledge base that helps me to stay in touch with the reality. Use with caution
     * https://github.com/MikeMcl/big.js
 - undefined, null, void 0
     * https://fodor.org/blog/js-undefined-null-void
+- Event loop
+    * https://www.javascripttutorial.net/javascript-event-loop
 
 ### Typescript
 
@@ -774,6 +776,8 @@ Knowledge base that helps me to stay in touch with the reality. Use with caution
     * https://www.bmc.com/blogs/solid-design-principles/
 - DRY
     * https://en.wikipedia.org/wiki/Don%27t_repeat_yourself
+- CQRS
+    * https://www.baeldung.com/cqrs-event-sourcing-java
 - Design Patterns
     * http://en.wikipedia.org/wiki/Software_design_pattern
 - Builder vs Abstract Factory
