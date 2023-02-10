@@ -13,6 +13,8 @@ Knowledge base that helps me to stay in touch with the reality. Use with caution
 
 ### Basic Java
 
+- default methods
+    * https://www.educative.io/courses/java-8-lambdas-stream-api-beyond/R888OpmM5WO
 - Java Collections
     * http://docs.oracle.com/javase/tutorial/collections/index.html
 - Hashtable \ HashMap (Buckets, Collisions etc.)
@@ -79,7 +81,7 @@ Knowledge base that helps me to stay in touch with the reality. Use with caution
 - CommonsWare’s Books
     * https://commonsware.com/catalog
 - What's new
-    * https://kotlinlang.org/docs/whatsnew1620.html
+    * https://kotlinlang.org/docs/whatsnew18.html
 - Kotlin by JetBrains
     * https://www.youtube.com/c/Kotlin
 - Kotlin’s vararg and spread operator
@@ -502,6 +504,10 @@ Knowledge base that helps me to stay in touch with the reality. Use with caution
 - Mockito vs Easymock
     * http://stackoverflow.com/questions/2864796/easymock-vs-mockito-design-vs-maintainability
     * http://stackoverflow.com/questions/3127518/mockito-preferrable-over-easymock
+- Mock vs Spy vs MockBean vs InjectMocks
+    * https://stackoverflow.com/questions/28295625/mockito-spy-vs-mock
+    * https://www.baeldung.com/java-spring-mockito-mock-mockbean
+    * https://www.geeksforgeeks.org/difference-between-mock-and-injectmocks-in-mockito/
 - PowerMock
     * http://stackoverflow.com/questions/6036450/powermock-mockito-vs-mockito-alone
 - DbUnit
@@ -548,6 +554,8 @@ Knowledge base that helps me to stay in touch with the reality. Use with caution
     * https://github.com/GoogleContainerTools/jib
 - The differences between Docker, containerd, CRI-O and runc
     * https://www.tutorialworks.com/difference-docker-containerd-runc-crio-oci
+- Linux Container Basics (namespaces, unshare)
+    * https://icicimov.github.io/blog/virtualization/Linux-Container-Basics/
 
 ### Kubernetes
 
@@ -680,6 +688,7 @@ Knowledge base that helps me to stay in touch with the reality. Use with caution
     * http://lesscss.org/
 - SASS
     * http://sass-lang.com/
+    * https://www.geeksforgeeks.org/what-is-the-difference-between-scss-and-sass/
 - Tailwind
     * https://tailwindcss.com
 
@@ -776,10 +785,14 @@ Knowledge base that helps me to stay in touch with the reality. Use with caution
     * https://www.bmc.com/blogs/solid-design-principles/
 - DRY
     * https://en.wikipedia.org/wiki/Don%27t_repeat_yourself
+- Event Sourcing
+    * https://www.eventstore.com/blog/what-is-event-sourcing
 - CQRS
     * https://www.baeldung.com/cqrs-event-sourcing-java
 - Design Patterns
     * http://en.wikipedia.org/wiki/Software_design_pattern
+- Pure / mutating function
+    * https://en.wikipedia.org/wiki/Pure_function
 - Builder vs Abstract Factory
     * http://stackoverflow.com/questions/757743/what-is-the-difference-between-builder-design-pattern-and-factory-design-pattern
 - Singleton
