@@ -622,6 +622,13 @@ Knowledge base that helps me to stay in touch with the reality. Use with caution
 - RxJS
     * https://blog.logrocket.com/rxjs-with-react-hooks-for-state-management
 
+### Angular
+
+- Guide
+    * https://angular.io/guide
+- Tutorial
+    * https://www.edureka.co/blog/angular-tutorial/
+
 ### AngularJS
 
 - Angular JS
