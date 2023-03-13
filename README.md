@@ -162,7 +162,7 @@ Knowledge base that helps me to stay in touch with the reality. Use with caution
 ### Typescript
 
 - Handbook
-    * https://www.typescriptlang.org/assets/typescript-handbook.pdf
+    * https://www.typescriptlang.org/docs/handbook/
 - Typescript Deep Dive
     * https://github.com/basarat/typescript-book
 - Advanced types
@@ -628,6 +628,16 @@ Knowledge base that helps me to stay in touch with the reality. Use with caution
     * https://angular.io/guide
 - Tutorial
     * https://www.edureka.co/blog/angular-tutorial/
+- Dependency Injection (NgModule vs Component providers)
+    * https://angular.io/guide/dependency-injection
+- ng build
+    * https://angular.io/cli/build
+- File structure
+    * https://angular.io/guide/file-structure
+- angular.json
+    * https://angular.io/guide/workspace-config
+- Bootstrapping
+    * https://medium.com/siam-vit/how-an-angular-app-work-behind-the-scenes-angular-flow-dcc4d1df27bd
 
 ### AngularJS
 
@@ -783,6 +793,7 @@ Knowledge base that helps me to stay in touch with the reality. Use with caution
 - Git internals
     * https://git-scm.com/book/en/v2/Git-Internals-Plumbing-and-Porcelain
     * https://codewords.recurse.com/issues/two/git-from-the-inside-out
+    * https://github.blog/2022-08-29-gits-database-internals-i-packed-object-store/
 - Git index
     * http://stackoverflow.com/questions/4084921/what-does-the-git-index-contain-exactly
 
