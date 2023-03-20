@@ -150,6 +150,7 @@ Knowledge base that helps me to stay in touch with the reality. Use with caution
     * http://www.crockford.com/
 - Reactive Programming
     * https://goodguydaniel.com/blog/why-reactive-programming
+    * https://blog.angular-university.io/rxjs-higher-order-mapping/
 - Advanced Objects
     * https://github.com/carltheperson/advanced-js-objects
 - Decimal arithmetic
@@ -638,6 +639,8 @@ Knowledge base that helps me to stay in touch with the reality. Use with caution
     * https://angular.io/guide/workspace-config
 - Bootstrapping
     * https://medium.com/siam-vit/how-an-angular-app-work-behind-the-scenes-angular-flow-dcc4d1df27bd
+- Lifecycle hooks
+    * https://angular.io/guide/lifecycle-hooks
 
 ### AngularJS
 
@@ -708,6 +711,8 @@ Knowledge base that helps me to stay in touch with the reality. Use with caution
     * https://www.geeksforgeeks.org/what-is-the-difference-between-scss-and-sass/
 - Tailwind
     * https://tailwindcss.com
+- inline vs inline-block vs block
+    * https://www.samanthaming.com/pictorials/css-inline-vs-inlineblock-vs-block/
 
 ### Browser
 
