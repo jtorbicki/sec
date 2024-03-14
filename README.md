@@ -114,6 +114,51 @@ Knowledge base that helps me to stay in touch with the reality. Use with caution
 - http://mrhaki.blogspot.dk/search/label/Groovy%3AGoodness
 - http://www.youtube.com/watch?v=bqS8l12xG-Y
 
+### Rust
+
+- The book
+    * https://doc.rust-lang.org/book
+- Effective Rust
+    * https://www.lurklurk.org/effective-rust
+- Rust by example
+    * https://doc.rust-lang.org/rust-by-example/index.html
+    * https://zsiciarz.github.io/24daysofrust/index.html
+- Idiomatic Rust
+    * https://github.com/mre/idiomatic-rust
+- Learn Rust With Entirely Too Many Linked Lists
+    * https://rust-unofficial.github.io/too-many-lists/index.html
+- Design patterns
+    * https://rust-unofficial.github.io/patterns/intro.html
+- List of Rust books
+    * https://lborb.github.io/book/
+- fasterthanlime
+    * https://fasterthanli.me
+- pretzelhammer's Rust blog
+    * https://github.com/pretzelhammer/rust-blog
+- Command line apps in Rust
+    * https://rust-cli.github.io/book/index.html
+    * https://rust-cli-recommendations.sunshowers.io/index.html
+- anyhow
+    * https://antoinerr.github.io/blog-website/2023/01/28/rust-anyhow.html
+- CSV parsing tutorial
+    * https://blog.burntsushi.net/csv/
+- impl Trait
+    * https://david.kolo.ski/blog/a-new-impl-trait-1
+- dynamic dispatch
+    * https://alschwalm.com/blog/static/2017/03/07/exploring-dynamic-dispatch-in-rust/
+- Axum
+    * https://www.shuttle.rs/blog/2023/12/06/using-axum-rust
+- modules explained
+    * https://aloso.github.io/2021/03/28/module-system.html
+- Tokio
+    * https://tokio.rs/tokio/tutorial/
+- Rustlings
+    * https://github.com/rust-lang/rustlings
+- Generics and Associated Types
+    * https://blog.thomasheartman.com/posts/on-generics-and-associated-types
+- Arc and Mutex
+    * https://itsallaboutthebit.com/arc-mutex/
+
 ### Javascript
 
 - Evolution of JS
@@ -123,6 +168,7 @@ Knowledge base that helps me to stay in touch with the reality. Use with caution
 - this
     * https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/this
 - Equality
+    * https://www.syncfusion.com/blogs/post/deep-compare-javascript-objects.aspx
     * https://developer.mozilla.org/en-US/docs/Web/JavaScript/Equality_comparisons_and_sameness
 - call vs apply vs bind
     * https://dev.to/jcfrane/call-vs-apply-vs-bind-2d4c
@@ -134,8 +180,10 @@ Knowledge base that helps me to stay in touch with the reality. Use with caution
     * https://www.toptal.com/javascript/es6-class-chaos-keeps-js-developer-up
     * https://www.educative.io/blog/understanding-and-using-prototypal-inheritance-in-javascript
     * https://developer.mozilla.org/en-US/docs/Web/JavaScript/Inheritance_and_the_prototype_chain
+- __proto__ vs prototype
+    * https://phuoc.ng/collection/this-vs-that/__proto__-vs-prototype/
 - Anonymous functions
-    * https://www.javascripttutorial.net/javascript-anonymous-functions
+    * https://www.javascripttutorial.net/javascript-anonymous-functions/
 - Module pattern
     * http://www.adequatelygood.com/2010/3/JavaScript-Module-Pattern-In-Depth
 - Design Patterns
@@ -148,17 +196,14 @@ Knowledge base that helps me to stay in touch with the reality. Use with caution
 - Crockford
     * http://www.youtube.com/watch?v=hQVTIJBZook
     * http://www.crockford.com/
-- Reactive Programming
-    * https://goodguydaniel.com/blog/why-reactive-programming
-    * https://blog.angular-university.io/rxjs-higher-order-mapping/
 - Advanced Objects
     * https://github.com/carltheperson/advanced-js-objects
 - Decimal arithmetic
     * https://github.com/MikeMcl/big.js
 - undefined, null, void 0
-    * https://fodor.org/blog/js-undefined-null-void
+    * https://fodor.org/2020/01/17/js-undefined-null-void.html
 - Event loop
-    * https://www.javascripttutorial.net/javascript-event-loop
+    * https://www.javascripttutorial.net/javascript-event-loop/
 
 ### Typescript
 
@@ -178,6 +223,18 @@ Knowledge base that helps me to stay in touch with the reality. Use with caution
     * https://gi-no.github.io/kotlin-is-like-typescript/
 - Typescript in Browser
     * https://stackoverflow.com/questions/22885955/typescript-support-in-modern-browsers
+
+### Reactive Programming
+
+- RxJS
+    * https://rxjs-dev.firebaseapp.com/guide/overview
+- Learn RxJS
+    * https://www.learnrxjs.io/
+- Why You Should Consider Reactive Programming
+    * https://goodguydaniel.com/blog/why-reactive-programming
+- Subject vs BehaviorSubject vs ReplaySubject
+    * https://stackoverflow.com/questions/43118769/subject-vs-behaviorsubject-vs-replaysubject-in-angular
+    * https://medium.com/javascript-everyday/behaviorsubject-vs-replaysubject-1-beware-of-edge-cases-b361153d9ccf
 
 ### Polyglot Programming
 
@@ -333,6 +390,8 @@ Knowledge base that helps me to stay in touch with the reality. Use with caution
     * https://www.baeldung.com/jpql-hql-criteria-query
 - JDBC (Difference between statements)
     * http://crunchify.com/what-are-the-difference-between-jdbcs-statement-preparedstatement-and-callablestatement/
+- fetch join
+    * https://medium.com/javarevisited/spring-jpa-when-to-use-join-fetch-a6cec898c4c6
 
 ### MongoDB
 
@@ -376,13 +435,6 @@ Knowledge base that helps me to stay in touch with the reality. Use with caution
 - XPath
     * http://en.wikipedia.org/wiki/XPath
 
-### Service mesh
-
-- What and why
-    * https://buoyant.io/service-mesh-manifesto/
-- Linkerd2-proxy
-    * https://linkerd.io/2020/07/23/under-the-hood-of-linkerds-state-of-the-art-rust-proxy-linkerd2-proxy/
-
 ### REST
 
 - What is REST
@@ -401,13 +453,61 @@ Knowledge base that helps me to stay in touch with the reality. Use with caution
     * http://stackoverflow.com/questions/630453/put-vs-post-in-rest
 - RESTful Authentication
     * http://stackoverflow.com/questions/319530/restful-authentication
-    * http://blog.synopse.info/post/2011/05/24/How-to-implement-RESTful-authentication
 - REST Security
     * http://stackoverflow.com/questions/454355/security-of-rest-authentication-schemes
     * http://stackoverflow.com/questions/7551/best-practices-for-securing-a-rest-api-web-service
     * http://www.javacodegeeks.com/2012/12/authentication-against-a-restful-service-with-spring-security.html
 - REST Best Practices
     * http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api
+
+### HTTP
+
+- HTTP Protocol
+    * http://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol
+- HTTP/2
+    * https://web.dev/performance-http2
+- HTTP Status codes
+    * https://www.codetinkerer.com/2015/12/04/choosing-an-http-status-code.html
+- HTTPS
+    * http://stackoverflow.com/questions/323200/is-a-https-query-string-secure
+    * http://en.wikipedia.org/wiki/HTTP_Secure
+- HTTP caching
+    * https://web.dev/http-cache
+- XMLHttpRequest
+    * http://en.wikipedia.org/wiki/XMLHttpRequest
+- AJAX
+    * http://en.wikipedia.org/wiki/Ajax_%28programming%29
+- Reverse AJAX
+    * https://learningviacode.blogspot.com/2016/03/reverse-ajax-what-and-how.html
+- JSONP / CORS
+    * http://en.wikipedia.org/wiki/JSONP
+    * http://en.wikipedia.org/wiki/Cross-origin_resource_sharing
+    * http://www.html5rocks.com/en/tutorials/cors/
+- Content disposition
+    * https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Content-Disposition
+
+### Service mesh
+
+- What and why
+    * https://buoyant.io/service-mesh-manifesto/
+- Linkerd2-proxy
+    * https://linkerd.io/2020/07/23/under-the-hood-of-linkerds-state-of-the-art-rust-proxy-linkerd2-proxy/
+
+### Microservices
+
+- DDD microservices
+    * https://medium.com/walmartglobaltech/building-domain-driven-microservices-af688aa1b1b8
+- SAGA
+    * https://microservices.io/patterns/data/saga.html
+
+### Networking
+
+- TCP/IP
+    * http://www.thegeekstuff.com/2011/11/tcp-ip-fundamentals/
+- Throughput
+    * http://en.wikipedia.org/wiki/Throughput
+- gRPC
+    * https://grpc.io
 
 ### SOAP
 
@@ -424,8 +524,6 @@ Knowledge base that helps me to stay in touch with the reality. Use with caution
 - WS-Security
     * http://en.wikipedia.org/wiki/WS-Security
     * http://cxf.apache.org/docs/ws-security.html
-- Possible WS attacks
-    * http://ws-attacks.org/
 
 ### SOA
 
@@ -460,6 +558,7 @@ Knowledge base that helps me to stay in touch with the reality. Use with caution
     * https://developer.okta.com/blog/2019/10/21/illustrated-guide-to-oauth-and-oidc
     * https://developer.okta.com/blog/2017/07/25/oidc-primer-part-1
 - Web application security
+    * https://pragmaticwebsecurity.com/articles.html
     * http://docs.oracle.com/javaee/6/tutorial/doc/bncat.html
 - JAAS
     * http://en.wikipedia.org/wiki/Java_Authentication_and_Authorization_Service
@@ -472,7 +571,6 @@ Knowledge base that helps me to stay in touch with the reality. Use with caution
     * http://tedyoung.me/2011/06/21/spring-security-custom-authenticators/
 - Password storage
     * http://crackstation.net/hashing-security.htm
-    * https://www.nccgroup.trust/us/about-us/newsroom-and-events/blog/2015/march/enough-with-the-salts-updates-on-secure-password-schemes/
     * http://www.javacodegeeks.com/2012/05/secure-password-storage-donts-dos-and.html
     * http://www.javacodegeeks.com/2012/08/bcrypt-salt-its-bare-minimum.html
 - BCrypt
@@ -497,9 +595,11 @@ Knowledge base that helps me to stay in touch with the reality. Use with caution
 - TDD vs BDD vs ATDD
     * https://www.browserstack.com/guide/tdd-vs-bdd-vs-atdd
 - Spock
-    * http://code.google.com/p/spock/
+    * https://spockframework.org/
 - Cypress
     * https://www.cypress.io/
+- Selenium
+    * http://docs.seleniumhq.org/
 - JUnit 4 vs TestNG
     * http://www.mkyong.com/unittest/junit-4-vs-testng-comparison/
 - Mockito vs Easymock
@@ -519,12 +619,10 @@ Knowledge base that helps me to stay in touch with the reality. Use with caution
     * http://www.javacodegeeks.com/2012/06/java-ee-6-testing-part-i-ejb-31.html
 - Maven Integration tests
     * http://www.javacodegeeks.com/2012/07/integration-tests-with-maven-3-failsafe.html
-- Cucumber (BDD)
-    * http://cukes.info/
 - Gherkin
     * https://www.guru99.com/gherkin-test-cucumber.html
-- Selenium
-    * http://docs.seleniumhq.org/
+- Test containers
+    * https://testcontainers.com/
 
 ### CI/CD
 
@@ -534,6 +632,7 @@ Knowledge base that helps me to stay in touch with the reality. Use with caution
     * https://docs.microsoft.com/en-us/azure/devops/pipelines/get-started/what-is-azure-pipelines?view=azure-devops
 - GitLab
     * https://about.gitlab.com
+- blue / green, canary release
 
 ### Containers
 
@@ -557,6 +656,8 @@ Knowledge base that helps me to stay in touch with the reality. Use with caution
     * https://www.tutorialworks.com/difference-docker-containerd-runc-crio-oci
 - Linux Container Basics (namespaces, unshare)
     * https://icicimov.github.io/blog/virtualization/Linux-Container-Basics/
+- Namespaces
+    * https://www.baeldung.com/linux/list-namespaces
 
 ### Kubernetes
 
@@ -625,14 +726,12 @@ Knowledge base that helps me to stay in touch with the reality. Use with caution
 
 ### Angular
 
-- Guide
-    * https://angular.io/guide
+- Docs
+    * https://angular.dev/
 - Tutorial
     * https://www.edureka.co/blog/angular-tutorial/
 - Dependency Injection (NgModule vs Component providers)
     * https://angular.io/guide/dependency-injection
-- ng build
-    * https://angular.io/cli/build
 - File structure
     * https://angular.io/guide/file-structure
 - angular.json
@@ -641,6 +740,14 @@ Knowledge base that helps me to stay in touch with the reality. Use with caution
     * https://medium.com/siam-vit/how-an-angular-app-work-behind-the-scenes-angular-flow-dcc4d1df27bd
 - Lifecycle hooks
     * https://angular.io/guide/lifecycle-hooks
+- Standalone components
+    * https://medium.com/@mahmednisar/what-are-standalone-components-and-how-to-utilize-them-in-angular-848ad200e12b
+- Angular vs React
+    * https://blog.nrwl.io/understanding-angular-ivy-incremental-dom-and-virtual-dom-243be844bf36
+- Change detection
+    * https://angularindepth.com/posts/1064/what-every-front-end-developer-should-know-about-change-detection-in-angular-and-react
+    * https://blog.angular-university.io/how-does-angular-2-change-detection-really-work/
+    * https://justangular.com/blog/its-ok-to-use-function-calls-in-angular-templates
 
 ### AngularJS
 
@@ -695,8 +802,6 @@ Knowledge base that helps me to stay in touch with the reality. Use with caution
 
 - Good UI
     * http://www.goodui.org/
-- Design rules
-    * https://thefullstackdev.net/resource/create-beautiful-website-while-sucking-at-design/
 
 ### CSS
 
@@ -720,41 +825,6 @@ Knowledge base that helps me to stay in touch with the reality. Use with caution
     * https://sites.google.com/a/chromium.org/dev/Home/chromium-security/client-identification-mechanisms
 - Shadow DOM vs Virtual DOM
     * https://vuejsfeed.com/blog/learn-the-differences-between-shadow-dom-and-virtual-dom
-
-### HTTP
-
-- HTTP Protocol
-    * http://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol
-- HTTP/2
-    * https://web.dev/performance-http2
-- HTTP Status codes
-    * https://www.codetinkerer.com/2015/12/04/choosing-an-http-status-code.html
-- HTTPS
-    * http://stackoverflow.com/questions/323200/is-a-https-query-string-secure
-    * http://en.wikipedia.org/wiki/HTTP_Secure
-- HTTP caching
-    * https://web.dev/http-cache
-- XMLHttpRequest
-    * http://en.wikipedia.org/wiki/XMLHttpRequest
-- AJAX
-    * http://en.wikipedia.org/wiki/Ajax_%28programming%29
-- Reverse AJAX
-    * http://www.ibm.com/developerworks/web/library/wa-reverseajax1/index.html
-- JSONP / CORS
-    * http://en.wikipedia.org/wiki/JSONP
-    * http://en.wikipedia.org/wiki/Cross-origin_resource_sharing
-    * http://www.html5rocks.com/en/tutorials/cors/
-- Content disposition
-    * https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Content-Disposition
-
-### Networking
-
-- TCP/IP
-    * http://www.thegeekstuff.com/2011/11/tcp-ip-fundamentals/
-- Throughput
-    * http://en.wikipedia.org/wiki/Throughput
-- gRPC
-    * https://grpc.io
 
 ### Linux
 
@@ -826,8 +896,6 @@ Knowledge base that helps me to stay in touch with the reality. Use with caution
     * http://www.enterpriseintegrationpatterns.com/toc.html
 - How to design a good API
     * http://www.youtube.com/watch?v=aAb7hSCtvGw
-- DDD microservices
-    * https://medium.com/walmartglobaltech/building-domain-driven-microservices-af688aa1b1b8
 - Tools
     * https://draw.io
 - Human shareable codes
@@ -944,6 +1012,8 @@ Knowledge base that helps me to stay in touch with the reality. Use with caution
     * http://stackoverflow.com/questions/2114212/questions-every-good-java-java-ee-developer-should-be-able-to-answer
     * http://stackoverflow.com/questions/64856/senior-java-ee-interview-questions
     * http://www.javacodegeeks.com/2012/08/blind-dating-for-geeks-questions.html
+- Angular
+    * https://github.com/ayatrahmani/angular-interview-questions-1
 - Coding game
     * https://www.codingame.com
 - Codility lessons
@@ -971,3 +1041,9 @@ Knowledge base that helps me to stay in touch with the reality. Use with caution
     * https://softwareengineering.stackexchange.com/questions/86904/why-do-most-of-us-use-i-as-a-loop-counter-variable
 - 0xCAFEBABE
     * https://www.artima.com/insidejvm/whyCAFEBABE.html
+- Compiler explorer
+    * https://godbolt.org
+- UTF-8
+    * https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/
+- The Lost Art of Structure Packing
+    * http://www.catb.org/esr/structure-packing/
