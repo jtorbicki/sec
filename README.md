@@ -131,6 +131,8 @@ Knowledge base that helps me to stay in touch with the reality. Use with caution
     * https://rust-unofficial.github.io/patterns/intro.html
 - List of Rust books
     * https://lborb.github.io/book/
+- Tracing
+    * https://www.shuttle.rs/blog/2024/01/09/getting-started-tracing-rust
 - fasterthanlime
     * https://fasterthanli.me
 - pretzelhammer's Rust blog
@@ -204,6 +206,8 @@ Knowledge base that helps me to stay in touch with the reality. Use with caution
     * https://fodor.org/2020/01/17/js-undefined-null-void.html
 - Event loop
     * https://www.javascripttutorial.net/javascript-event-loop/
+- Web workers
+    * https://chanduivaturi.medium.com/non-blocking-dom-fdaeb3ddd08a
 
 ### Typescript
 
@@ -223,6 +227,8 @@ Knowledge base that helps me to stay in touch with the reality. Use with caution
     * https://gi-no.github.io/kotlin-is-like-typescript/
 - Typescript in Browser
     * https://stackoverflow.com/questions/22885955/typescript-support-in-modern-browsers
+- Object vs object vs {}
+    * https://medium.com/@zong8498/exploring-the-differences-between-object-and-object-in-typescript-927b50c9e0de
 
 ### Reactive Programming
 
@@ -508,6 +514,10 @@ Knowledge base that helps me to stay in touch with the reality. Use with caution
     * http://en.wikipedia.org/wiki/Throughput
 - gRPC
     * https://grpc.io
+- CDN
+    * https://medium.com/globant/content-delivery-networks-explained-5a1feaa224c8
+- DNS
+    * https://gcore.com/learning/dns-records-explained
 
 ### SOAP
 
@@ -748,6 +758,8 @@ Knowledge base that helps me to stay in touch with the reality. Use with caution
     * https://angularindepth.com/posts/1064/what-every-front-end-developer-should-know-about-change-detection-in-angular-and-react
     * https://blog.angular-university.io/how-does-angular-2-change-detection-really-work/
     * https://justangular.com/blog/its-ok-to-use-function-calls-in-angular-templates
+- Template Driven and Reactive Forms
+    * https://blog.angular-university.io/introduction-to-angular-2-forms-template-driven-vs-model-driven/
 
 ### AngularJS
 
@@ -851,11 +863,16 @@ Knowledge base that helps me to stay in touch with the reality. Use with caution
     * https://github.com/jorgebucaran/cookbook.fish
 - McFly history search
     * https://github.com/cantino/mcfly
-- Old school nostalgia
-    * https://www.guitmz.com
-    * https://tmpout.sh
+- The Linux Kernel Module Programming Guide
+    * https://sysprog21.github.io/lkmpg/
 - Wallpapers
     * https://wallhaven.cc
+
+### Reverse Engineering
+
+- https://www.guitmz.com
+- https://tmpout.sh
+- https://0xinfection.github.io/reversing/
 
 ### Version Control
 
@@ -900,6 +917,10 @@ Knowledge base that helps me to stay in touch with the reality. Use with caution
     * https://draw.io
 - Human shareable codes
     * https://kalifi.org/2019/09/human-shareable-codes.html
+- System design
+    * https://youtu.be/o5n85GRKuzk
+    * https://github.com/donnemartin/system-design-primer#system-design-topics-start-here
+    * https://www.youtube.com/@ByteByteGo
 
 ### Clustering
 
@@ -984,7 +1005,7 @@ Knowledge base that helps me to stay in touch with the reality. Use with caution
 - Heap sort
     * http://en.wikipedia.org/wiki/Heapsort
 - Videos
-    * https://www.youtube.com/results?search_query=algorithms+xoax+dotnet
+    * https://www.youtube.com/@AlgoEngine/videos
 - Depth-First Search
 - Breadth-First Search
 - Topological Sort
