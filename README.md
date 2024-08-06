@@ -1039,6 +1039,9 @@ Knowledge base that helps me to stay in touch with the reality. Use with caution
     * https://www.codingame.com
 - Codility lessons
     * https://app.codility.com/programmers/lessons/1-iterations
+- Blind 75
+    * https://www.techinterviewhandbook.org/grind75
+    * https://www.youtube.com/@NeetCode
 
 ### Resources
 
