@@ -160,6 +160,8 @@ Knowledge base that helps me to stay in touch with the reality. Use with caution
     * https://blog.thomasheartman.com/posts/on-generics-and-associated-types
 - Arc and Mutex
     * https://itsallaboutthebit.com/arc-mutex/
+- Zeroing memory
+    * https://cipherstash.com/blog/verifying-rust-zeroize-with-assembly-including-portable-simd
 
 ### Javascript
 
@@ -998,29 +1000,36 @@ Knowledge base that helps me to stay in touch with the reality. Use with caution
 
 - Big O notation
     * https://www.freecodecamp.org/news/big-o-notation-why-it-matters-and-why-it-doesnt-1674cfa8a23c/
-- External Sort
-    * http://en.wikipedia.org/wiki/External_sorting
-- Quick sort
-    * http://en.wikipedia.org/wiki/Quicksort
-- Heap sort
-    * http://en.wikipedia.org/wiki/Heapsort
+    * https://www.youtube.com/watch?v=BgLTDT03QtU
 - Videos
-    * https://www.youtube.com/@AlgoEngine/videos
-- Depth-First Search
-- Breadth-First Search
-- Topological Sort
-- Dijkstra's Algorithm
-- Strings in Java
-- Key-Indexed Counting
-- LSD Radix Sort
-- 3-way Radix Quicksort
-- R-way Tries
-- Ternary Search Tries
-- Introduction to Substring Search
-- Brute-Force Substring Search
-- Knuth-Morris-Pratt
-- Boyer-Moore
-- Rabin-Karp
+    * https://www.youtube.com/@NeetCode
+- Blind 75
+    * https://www.techinterviewhandbook.org/grind75
+- DSA resources
+    * https://github.com/ashishps1/awesome-leetcode-resources
+- Key-Indexed Counting (HashMap)
+- Prefix Sum
+- Binary Search
+- Greedy
+- Bit Manipulation
+- Sorting (all algorithms)
+- Two Pointers
+- Sliding Window
+- Recursion
+- Backtracking
+- Dynamic Programming
+- Linked List
+- Stacks
+- Queues / Deques
+- Trees (binary trees, binary search trees)
+- Graphs (General Trees)
+- DFS / BFS
+- Topological Sorting
+      * https://www.geeksforgeeks.org/topological-sorting-indegree-based-solution/
+- Shortest Path Algorithms (Dijkstra / Floyd / Bellman Ford)
+- Union Find (DSU)
+- Minimum Spanning Trees (Kruskal and Prims)
+- Trie, R-way Tries, Ternary Search Tries
 
 ### Interview
 
