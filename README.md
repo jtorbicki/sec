@@ -919,10 +919,6 @@ Knowledge base that helps me to stay in touch with the reality. Use with caution
     * https://draw.io
 - Human shareable codes
     * https://kalifi.org/2019/09/human-shareable-codes.html
-- System design
-    * https://youtu.be/o5n85GRKuzk
-    * https://github.com/donnemartin/system-design-primer#system-design-topics-start-here
-    * https://www.youtube.com/@ByteByteGo
 
 ### Clustering
 
@@ -1032,6 +1028,14 @@ Knowledge base that helps me to stay in touch with the reality. Use with caution
 - Trie, R-way Tries, Ternary Search Tries
 
 ### Interview
+
+- System design
+    * DDIA book
+    * https://leetcode.com/explore/interview/card/system-design-for-interviews-and-beyond/
+    * https://www.youtube.com/watch?v=UEAMfLPZZhE&list=PLeKd45zvjcDFUEv_ohr_HdUFe97RItdiB
+    * https://youtu.be/o5n85GRKuzk
+    * https://github.com/donnemartin/system-design-primer#system-design-topics-start-here
+    * https://www.youtube.com/@ByteByteGo
 
 - Questions
     * http://www.javacodegeeks.com/2012/02/some-interview-questions-to-hire-java.html
